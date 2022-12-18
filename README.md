@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SEJALHANMANTE
 - 👀 I’m interested in data science 
+- 👀 I am currently studying in T.E. at JSPM NTC PUNE 
 - 🌱 I’m currently learning B.E. ENTC WITH HONOURS DATA SCIENCE 
 - 📫 How to reach me : LINKEDIN profile: https://www.linkedin.com/in/sejal-hanmante-bb7117237/
 
