@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SEJALHANMANTE
 - 👀 Data science and Machine Learning enthusiast
-- 👀 Completed B.E ENTC at JSPM NTC PUNE 
+- 👀 Pursuing Mtech AI ML @ SIT, Pune 
+-     Completed B.E ENTC at JSPM NTC PUNE 
 
 - 📫 How to reach me : LINKEDIN profile: https://www.linkedin.com/in/sejal-hanmante
 
