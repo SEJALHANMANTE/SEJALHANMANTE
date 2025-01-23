@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @SEJALHANMANTE
-- 👀 Data science and Machine Learning enthusiast
-- 👀 Pursuing Mtech AI ML @ SIT, Pune 
--     Completed B.E ENTC at JSPM NTC PUNE 
+Here's a refined GitHub bio for you based on your LinkedIn profile and additional details:
+
+---
+
+🌟 **Aspiring AI/ML Professional | M.Tech in Artificial Intelligence & Machine Learning** 🌟  
+
+Hi, I'm **Sejal Hanmante**, an M.Tech student specializing in Artificial Intelligence and Machine Learning at **Symbiosis International University**, currently holding a CGPA of **9.26** in my first semester.  
+
+My journey in AI/ML is driven by a passion for solving real-world challenges through innovative technology. From developing **phishing URL detection** systems using **unsupervised learning** to creating **forex currency price forecasting** models, I thrive at the intersection of creativity, analytics, and problem-solving.  
+
+🔍 **Key Interests and Expertise**  
+- **Data-Driven Solutions**: Analyzing complex datasets and visualizing insights to drive decision-making.  
+- **AI for Agriculture**: Published a research paper, *Intelligent Valve Control Mechanism for Irrigation in Precision Agriculture*, contributing to precision farming.  
+- **NLP and Computer Vision**: Developing solutions for personalized assistance and image-based disease detection in agriculture.  
+
+💡 I'm always keen on exploring new advancements in the AI Industry 
+
+ 
+
+--- 
+
+Feel free to tweak this further to better reflect your tone and preferences!
 
 - 📫 How to reach me : LINKEDIN profile: https://www.linkedin.com/in/sejal-hanmante
 
