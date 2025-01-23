@@ -17,8 +17,6 @@ My journey in AI/ML is driven by a passion for solving real-world challenges thr
 
 --- 
 
-Feel free to tweak this further to better reflect your tone and preferences!
-
 - 📫 How to reach me : LINKEDIN profile: https://www.linkedin.com/in/sejal-hanmante
 
 <!---
