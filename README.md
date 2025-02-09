@@ -8,7 +8,7 @@ My journey in AI/ML is driven by a passion for solving real-world challenges thr
 
 🔍 **Key Interests and Expertise**  
 - **Data-Driven Solutions**: Analyzing complex datasets and visualizing insights to drive decision-making. 
-- ** AI for FinTech , Medicare , CyberSecurity and open to explore all other domains with AI  
+- AI for FinTech , Medicare , CyberSecurity and open to explore all other domains with AI  
 - **AI for Agriculture**: Published a research paper, *Intelligent Valve Control Mechanism for Irrigation in Precision Agriculture*, contributing to precision farming.  
 - **NLP and Computer Vision**: Developing solutions for personalized assistance and image-based disease detection in agriculture.  
 
